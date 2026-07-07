@@ -1,4 +1,4 @@
-# Tejaswini Thambabathula — Portfolio
+# Tejaswini Thambabathula - Portfolio
 
 Personal portfolio website for **Tejaswini Thambabathula**, Test Automation Engineer & SDET Aspirant.
 
@@ -26,19 +26,7 @@ portfolio/
 └── README.md
 ```
 
-## How to deploy on GitHub Pages
 
-1. Push this folder to a repo named `portfolio` (or any name) under your GitHub account.
-2. Go to **Settings → Pages**.
-3. Under **Source**, choose **Deploy from a branch → main → / (root)**.
-4. Save. Your site will be live at `https://TejaswiniSruthi.github.io/portfolio`.
-
-## Pending links to add
-
-Open `index.html` and search for `YOUR_LINK` — two project cards still need their repo URLs:
-
-- **QKart Automation Framework** — add your GitHub repo link
-- **SQL Learnings — MySQL Module** — add your GitHub repo link
 
 ---
 
