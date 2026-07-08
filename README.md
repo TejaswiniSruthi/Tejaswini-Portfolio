@@ -2,7 +2,7 @@
 
 Personal portfolio website for **Tejaswini Thambabathula**, Test Automation Engineer & SDET Aspirant.
 
-🌐 **Live site**: [https://TejaswiniSruthi.github.io/portfolio](https://TejaswiniSruthi.github.io/portfolio)
+🌐 **Live site**: [https://TejaswiniSruthi.github.io/Tejaswini-Portfolio](https://tejaswinisruthi.github.io/Tejaswini-Portfolio/)
 
 ---
 
